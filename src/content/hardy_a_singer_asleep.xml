@@ -41,7 +41,7 @@
 			<sourceDesc>
 				<!-- For born digital documents, use something like: -->
 				<p>This TEI/XML document is the original
-					source</p>
+					source.</p>
 				<!-- For documents transcribed from another source or sources, use <biblStruct>. -->
 				<!--
 				<biblStruct>
